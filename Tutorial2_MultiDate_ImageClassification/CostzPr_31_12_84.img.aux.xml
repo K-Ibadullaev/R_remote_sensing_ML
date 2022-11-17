@@ -1,0 +1,95 @@
+<PAMDataset>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.32473154903184</MDI>
+      <MDI key="STATISTICS_MEAN">0.038880554404203</MDI>
+      <MDI key="STATISTICS_MEDIAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.005680612141807</MDI>
+      <MDI key="STATISTICS_MODE">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.017613725947524</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>Layer_2</Description>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.50331993679188</MDI>
+      <MDI key="STATISTICS_MEAN">0.034037574216115</MDI>
+      <MDI key="STATISTICS_MEDIAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MODE">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.026010241602589</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>Layer_3</Description>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.65953551094092</MDI>
+      <MDI key="STATISTICS_MEAN">0.06629833720608</MDI>
+      <MDI key="STATISTICS_MEDIAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.0018422621108807</MDI>
+      <MDI key="STATISTICS_MODE">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.038237747258728</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>Layer_4</Description>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.91001351123147</MDI>
+      <MDI key="STATISTICS_MEAN">0.30469943425842</MDI>
+      <MDI key="STATISTICS_MEDIAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.0019858180979459</MDI>
+      <MDI key="STATISTICS_MODE">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.068647808247617</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>Layer_5</Description>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.6457630064273</MDI>
+      <MDI key="STATISTICS_MEAN">0.25878678170791</MDI>
+      <MDI key="STATISTICS_MEDIAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.0049327629186171</MDI>
+      <MDI key="STATISTICS_MODE">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.071533190557467</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>Layer_6</Description>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.94944247448396</MDI>
+      <MDI key="STATISTICS_MEAN">0.17366829034674</MDI>
+      <MDI key="STATISTICS_MEDIAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">8.5155864671952e-014</MDI>
+      <MDI key="STATISTICS_MODE">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.072755120931001</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

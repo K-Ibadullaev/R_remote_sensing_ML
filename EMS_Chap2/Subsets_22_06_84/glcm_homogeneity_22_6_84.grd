@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2022-03-04 15:27:04
+[georeference]
+nrows=1533
+ncols=1832
+xmin=262065
+ymin=8002765
+xmax=317025
+ymax=8048755
+projection=+proj=utm +zone=36 +south +datum=WGS84 +units=m +no_defs
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=0.00834366664090682
+maxvalue=1
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=glcm_homogeneity
